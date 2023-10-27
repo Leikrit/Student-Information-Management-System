@@ -9,7 +9,7 @@ Just simply run the *Login.exe* then you can access the MIS.
 
 - The UI part was accomplished with *tkinter* library in Python. 
 
-- The Database was supported by *SQLite 3 *, which is also a library in Python.
+- The Database was supported by *SQLite 3*, which is also a library in Python.
 
 - The User information part was accomplished using *pickle* library in Python.
 
